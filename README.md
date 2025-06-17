@@ -27,7 +27,7 @@ Welcome to **Tic Tac Toe**, a beautiful, responsive, and interactive version of 
    git clone https://github.com/Haroon-Ashraf-Chaudhry/Tic-Tac-Toe.git
    cd Tic-Tac-Toe
 2. **Open the game**
-   Double-click index.html
+- Double-click index.html
 
 ## 📄 License
 - This project is open-source and available under the MIT License.
