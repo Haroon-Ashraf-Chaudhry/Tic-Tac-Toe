@@ -6,6 +6,8 @@ Welcome to **Tic Tac Toe**, a beautiful, responsive, and interactive version of 
 
 > 🔗 [Play Now](https://github.com/Haroon-Ashraf-Chaudhry/Tic-Tac-Toe)
 
+---
+
 ## ✨ Features
 
 - ✅ Two-player gameplay (X vs O)
@@ -14,11 +16,15 @@ Welcome to **Tic Tac Toe**, a beautiful, responsive, and interactive version of 
 - 🔁 Restart and popup for replay
 - 📱 Fully responsive on all screen sizes
 
+---
+
 ## 🛠️ Technologies Used
 
 - **HTML5** – for structure
 - **CSS3** – for design, layout, and animations
 - **JavaScript (ES6)** – for game logic and interactivity
+
+---
 
 ## 🧪 How to Run the Game Locally
 
@@ -28,6 +34,8 @@ Welcome to **Tic Tac Toe**, a beautiful, responsive, and interactive version of 
    cd Tic-Tac-Toe
 2. **Open the game**
 - Double-click index.html
+
+---
 
 ## 📄 License
 - This project is open-source and available under the MIT License.
